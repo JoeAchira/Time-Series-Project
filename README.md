@@ -59,6 +59,11 @@ This project was completed as part of my **Cambridge Data Science course** and d
 
 ---
 
+### Visuals
+
+<img src="images/TSimg1.png" alt="Project Logo" width="900"/>
+<img src="images/TSimg2.png" alt="Project Logo" width="900"/>
+
 ### Learning Outcomes
 - Applied hybrid modeling to combine statistical and neural network approaches.
 - Improved understanding of time series preprocessing and rolling forecasts.
